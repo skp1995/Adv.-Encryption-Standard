@@ -1,0 +1,8 @@
+Cipher: 69 c4 e0 d8 6a 7b 04 30 d8 cd b7 80 70 b4 c5 5a
+Key:  0 1 2 3 4 5 6 7 8 9 a b c d e f
+Message: 00 11 22 33 44 55 66 77 88 99 aa bb cc dd ee ff
+
+
+Cipher: 00 11 22 33 44 55 66 77 88 99 aa bb cc dd ee ff
+Key: 00 01 02 03 04 05 06 07 08 09 0a 0b 0c 0d 0e 0f
+Message: 77 57 e3 66 e9 63 6e 66 9a 16 2d 35 f5 2d be 19
